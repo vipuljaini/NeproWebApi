@@ -212,7 +212,7 @@ namespace FRD_InventoryWebApi.Controllers
        
     }
 
-
+    
     public class StickerMaster
     {
         public List<StillageSticker> StillageList { get; set; }
